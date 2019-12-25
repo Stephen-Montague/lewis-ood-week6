@@ -21,4 +21,4 @@ Uses a Proxy Pattern to get status from a remote ticket machine.
 Sample output:
 
 
-TicketMachine <location> <seats>
+TicketMachine \<location\> \<seats\>
